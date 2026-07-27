@@ -6,6 +6,8 @@ A powerful open-source 3D editor for creating, editing, analyzing, and optimizin
 
 ## ✨ Features
 
+![photo](Data/6180e849-d5b5-4e55-8921-b068e38c699f.png)
+
 ### Blueprint Editing
 
 * 📂 Open and save Scrap Mechanic blueprints
