@@ -34,6 +34,8 @@ A powerful open-source 3D editor for creating, editing, analyzing, and optimizin
 * Structural diagnostics
 * Optimization suggestions
 
+[DOWNLOAD](https://github.com/oscar-j-code1903w2/ScrapMechanic-Blueprint-Editor/releases/tag/Release)
+
 ### Advanced Tools
 
 * 🔍 Search and filter blocks
